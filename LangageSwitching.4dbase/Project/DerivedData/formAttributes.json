@@ -1,0 +1,16 @@
+{
+	"forms": {
+		"Localized": {
+			"timeStamp": "2024-08-28T16:31:12Z",
+			"destination": "detailScreen"
+		},
+		"HDI": {
+			"timeStamp": "2024-08-09T09:24:22Z",
+			"destination": "detailScreen"
+		},
+		"HDI2": {
+			"timeStamp": "2024-08-08T11:17:50Z",
+			"destination": "detailScreen"
+		}
+	}
+}

@@ -1,0 +1,85 @@
+{
+	"map": [
+		{
+			"id": 2147483647,
+			"path": "Sources/Methods/00_Start.4dm"
+		},
+		{
+			"id": 2147483646,
+			"path": "Sources/Methods/Close.4dm"
+		},
+		{
+			"id": 2147483645,
+			"path": "Sources/Methods/Cotrol language.4dm"
+		},
+		{
+			"id": 2147483644,
+			"path": "Sources/Methods/CreateCountries.4dm"
+		},
+		{
+			"id": 2147483643,
+			"path": "Sources/Methods/OpenDial.4dm"
+		},
+		{
+			"id": 2147483642,
+			"path": "Trash/Methods/(eh_XLIFF).4dm"
+		},
+		{
+			"id": 2147483641,
+			"path": "Sources/DatabaseMethods/onStartup.4dm"
+		},
+		{
+			"id": 2147483640,
+			"path": "Sources/Forms/HDI2/method.4dm"
+		},
+		{
+			"id": 2147483639,
+			"path": "Sources/Forms/HDI2/ObjectMethods/Tab Control.4dm"
+		},
+		{
+			"id": 2147483638,
+			"path": "Sources/Forms/HDI2/ObjectMethods/Lang_at.4dm"
+		},
+		{
+			"id": 2147483637,
+			"path": "Sources/Forms/HDI2/ObjectMethods/Button.4dm"
+		},
+		{
+			"id": 2147483636,
+			"path": "Sources/Forms/HDI2/ObjectMethods/Button2.4dm"
+		},
+		{
+			"id": 2147483635,
+			"path": "Sources/Forms/HDI2/ObjectMethods/Button1.4dm"
+		},
+		{
+			"id": 2147483634,
+			"path": "Sources/Forms/Localized/method.4dm"
+		},
+		{
+			"id": 2147483633,
+			"path": "Sources/Forms/Localized/ObjectMethods/Button.4dm"
+		},
+		{
+			"id": 2147483632,
+			"path": "Sources/Forms/Localized/ObjectMethods/Button1.4dm"
+		},
+		{
+			"id": 2147483631,
+			"path": "Sources/Forms/Localized/ObjectMethods/WebArea_url.4dm"
+		},
+		{
+			"id": 2147483630,
+			"path": "Sources/Forms/Localized/ObjectMethods/Bouton.4dm"
+		},
+		{
+			"id": 2147483629,
+			"path": "Sources/Forms/Localized/ObjectMethods/Bouton1.4dm"
+		}
+	],
+	"version": 6528,
+	"targets": {
+		"x86_64_generic": true
+	},
+	"arch64": true
+}

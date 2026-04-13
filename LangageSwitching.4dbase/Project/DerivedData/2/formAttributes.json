@@ -1,0 +1,12 @@
+{
+	"forms": {
+		"Formulaire2": {
+			"timeStamp": "2024-08-13T09:18:52Z",
+			"destination": "listScreen"
+		},
+		"Formulaire1": {
+			"timeStamp": "2024-08-13T09:18:32Z",
+			"destination": "detailScreen"
+		}
+	}
+}

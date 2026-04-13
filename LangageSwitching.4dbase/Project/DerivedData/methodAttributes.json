@@ -1,0 +1,34 @@
+{
+	"methods": {
+		"OpenDial": {
+			"timeStamp": "2023-10-09T06:00:10Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"CreateCountries": {
+			"timeStamp": "2023-10-09T05:49:22Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Cotrol language": {
+			"timeStamp": "2024-08-29T10:04:52Z"
+		},
+		"00_Start": {
+			"timeStamp": "2024-08-09T09:16:26Z"
+		},
+		"Close": {
+			"timeStamp": "2023-10-09T05:49:22Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"(eh_XLIFF)": {
+			"timeStamp": "2023-10-09T06:02:24Z",
+			"attributes": {
+				"invisible": true
+			}
+		}
+	}
+}
