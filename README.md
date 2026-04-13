@@ -1,2 +1,3 @@
-# Multilingual-Support-in-4D-Databases-with-XLIFF-Integration
-# Multilingual-Support-in-4D-Databases-with-XLIFF-Integration
+# 19. Tech Note: Multilingual Support in 4D Databases with XLIFF Integration
+
+This technical note focuses on translating the user interface into multiple languages. It examines how to adapt a 4D database for various languages, specifically using the 4D command, SET DATABASE LOCALIZATION. It also details how to adjust the interface to make it accessible in different languages and enable the application to dynamically switch between these languages when opened. The goal is to ensure a consistent and seamless user experience regardless of the user&#8217;s language or culture.
